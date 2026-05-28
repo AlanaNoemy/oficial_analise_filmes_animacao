@@ -215,8 +215,7 @@ def render_mpaa_analysis():
 
     st.markdown(
         """
-        **Legenda:** classificações como **G**, **TP**, **L**, **AL**, **ALL**, **0** e **V**
-        foram agrupadas em **Livre/Todos os públicos** por indicarem conteúdo sem restrição de idade.
+        **Legenda:**
         """
     )
 

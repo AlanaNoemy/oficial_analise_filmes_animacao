@@ -266,7 +266,7 @@ st.markdown(
 )
 
 # texto final pra fechar a análise com conclusões bem diretas
-st.subheader("O que isso significa para 2026")
+st.subheader("O que isso significa para 2026 ?")
 st.write(
     "1. A contagem de lançamentos permanece forte e deve continuar apoiada por franquias familiares e conteúdo de aventura."
 )
